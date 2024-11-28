@@ -1,5 +1,5 @@
-ICS3203-CAT2-Assembly-Kerebei Alvin Kiplimo (141687)
-Overview
+#ICS3203-CAT2-Assembly-Kerebei Alvin Kiplimo (141687)
+##Overview
 This repository contains four assembly language programs completed as part of the CAT2 for the ICS3203 course. Each program is designed to showcase specific concepts in assembly programming, including control flow, array manipulation, modular subroutines, and hardware control simulation.
 
 The tasks are written in NASM (Netwide Assembler) and executed on a Windows environment using the NASM assembler and GCC linker.
