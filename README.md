@@ -4,21 +4,21 @@ This repository contains four assembly language programs completed as part of th
 
 The tasks are written in NASM (Netwide Assembler) and executed on a Windows environment using the NASM assembler and GCC linker.
 
-Tasks
-Task 1: Control Flow and Conditional Logic
-Purpose
+## Tasks
+### Task 1: Control Flow and Conditional Logic
+#### Purpose
 This program prompts the user to input a number and classifies it as:
 
-POSITIVE
-NEGATIVE
-ZERO
-How It Works
-The program reads the input number from the user.
-Using conditional and unconditional jumps, it evaluates the number:
-If the number is greater than 0, it's classified as "POSITIVE."
-If the number is less than 0, it's classified as "NEGATIVE."
-If the number is 0, it's classified as "ZERO."
-Challenges
-Understanding when to use conditional jumps (jg, jl, je) and unconditional jumps (jmp) for efficient branching.
-Ensuring all possible cases (positive, negative, zero) are covered without redundant checks.
+- POSITIVE
+- NEGATIVE
+- ZERO
+#### How It Works
+1. The program reads the input number from the user.
+2. Using conditional and unconditional jumps, it evaluates the number:
+  - If the number is greater than 0, it's classified as "POSITIVE."
+  - If the number is less than 0, it's classified as "NEGATIVE."
+  - If the number is 0, it's classified as "ZERO."
+#### Challenges
+1. Understanding when to use conditional jumps (jg, jl, je) and unconditional jumps (jmp) for efficient branching.
+2. Ensuring all possible cases (positive, negative, zero) are covered without redundant checks.
 Instructions
